@@ -1,5 +1,5 @@
 # Network Funamentals
-This file contains the writeups for the TryHackMe Module 2
+This file contains the writeups for TryHackMe Pre-Security Module 2
 - What is Networking
 - Intro to LAN
 - OSI Model
