@@ -49,6 +49,40 @@ Jobs in cybersecurity range from
 - Identify and implement systems needed for optimal security
 
 ## Incident Responder
-- Identifies and mitigates attacks whilst attacker's operations are ongoing
+- Identifies and mitigates attacks as they unfold
   - Respond productively and efficiently to security breaches
 - Creates plans, policies and protocols to enact during/following incidents
+- Highly pressurized position
+  - Assessments and responses required in real-time
+    - As attacks unfold
+- Metrics include &ndash; {the meantime to detect, acknowledge, and recover from attacks}
+  - Mean Time to Detect (MTTD)
+    - Average time it takes to identify
+      - Security threat
+      - Incident
+      - Technical problem
+  - Mean Time to Acknowledge (MTTA)
+    - Average time between initial alert and service provider taking action
+      - (service provider example: SOC L1 analyst)
+  - Mean Time to Response (MTTR)
+    - Average time between initial alert and response to it
+      - Malware removal
+      - Password reset
+      - Systemn restore
+
+### 🎯 Goal
+- Achieve swift and effective response
+- Retain financial standing
+- Avoid negative breach implications
+- Protect from cyberattacks
+  - Data
+  - Reputation
+  - Financial standing
+
+### Responsibilities
+- Develop and adopt thorough, actionable incident response plan
+- Maintain strong security practices
+- Support incident response measures
+- Post-incident reporting
+- Preparation for future attacks
+  - Lessons learned and adaptations
