@@ -117,3 +117,13 @@ To communicate and maintain order, devices must be both indentifying and identif
     - 12 hex digits ✖️ 4 bits/hex digit 🟰 48 bits
       - 6 bytes translated from binary into hexadecimal for readabliity
         - 1 byte = 2 hex digits = 8 bits = 1 octet
+- Can be faked ("spoofed")
+  - Spoofing &ndash; "identity theft" for devices
+    - When a  network device pretends to be another device using its MAC address
+      - Can break poorly implemented security designs that assume that devices communicating on a network are trustworthy
+  - "Guest" or "Public" Wi-Fi networks often use MAC address control (MAC filtering)
+    - Security feature on routers that dictates which devices can/can't connect
+      - Filters by MAC address
+      - Whitelisting/blacklisting
+      - Prevents unauthorized access
+      - Restricts usage
